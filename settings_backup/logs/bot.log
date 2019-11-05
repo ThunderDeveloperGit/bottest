@@ -1,0 +1,16 @@
+[01/01/2019 20:48] INFO client login 345: logging in using static token
+[01/01/2019 20:48] INFO gateway from_client 214: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[01/01/2019 20:48] INFO gateway identify 293: Shard ID None has sent the IDENTIFY payload.
+[01/01/2019 20:48] INFO gateway received_message 384: Shard ID None has connected to Gateway: gateway-prd-main-04gb, discord-sessions-prd-1-11 (Session ID: a0ba03ce3899576cb74843eef60c4c65).
+[01/01/2019 20:48] INFO state parse_guild_members_chunk 774: Processed a chunk for 474 members in guild ID 305744013519093760.
+[01/01/2019 20:48] INFO state parse_guild_members_chunk 774: Processed a chunk for 6 members in guild ID 422649864007057409.
+[01/01/2019 20:48] INFO state parse_guild_members_chunk 774: Processed a chunk for 2 members in guild ID 480732530463473665.
+[01/01/2019 20:48] INFO state parse_guild_members_chunk 774: Processed a chunk for 234 members in guild ID 502582034670026753.
+[01/01/2019 20:48] INFO state parse_guild_members_chunk 774: Processed a chunk for 205 members in guild ID 513812284423012372.
+[01/01/2019 20:48] INFO state parse_guild_members_chunk 774: Processed a chunk for 446 members in guild ID 527935529929408522.
+[01/01/2019 20:48] INFO state parse_guild_members_chunk 774: Processed a chunk for 3 members in guild ID 529229024908804126.
+[01/01/2019 20:48] INFO state _delay_ready 300: Requesting GUILD_SYNC for 7 guilds
+[01/01/2019 20:48] INFO client run 559: Received signal to terminate bot and event loop.
+[01/01/2019 20:48] INFO client _do_cleanup 479: Cleaning up event loop.
+[01/01/2019 20:48] INFO gateway poll_event 450: Websocket closed with 1000 (), cannot reconnect.
+[01/01/2019 20:48] INFO client when_future_is_done 497: Cleaning up after 6 tasks

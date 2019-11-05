@@ -1,0 +1,70 @@
+[01/01/2019 20:48] INFO client login 345: logging in using static token
+[01/01/2019 20:48] INFO gateway from_client 214: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[01/01/2019 20:48] INFO gateway identify 293: Shard ID None has sent the IDENTIFY payload.
+[01/01/2019 20:48] INFO gateway received_message 384: Shard ID None has connected to Gateway: gateway-prd-main-04gb, discord-sessions-prd-1-11 (Session ID: a0ba03ce3899576cb74843eef60c4c65).
+[01/01/2019 20:48] INFO state parse_guild_members_chunk 774: Processed a chunk for 474 members in guild ID 305744013519093760.
+[01/01/2019 20:48] INFO state parse_guild_members_chunk 774: Processed a chunk for 6 members in guild ID 422649864007057409.
+[01/01/2019 20:48] INFO state parse_guild_members_chunk 774: Processed a chunk for 2 members in guild ID 480732530463473665.
+[01/01/2019 20:48] INFO state parse_guild_members_chunk 774: Processed a chunk for 234 members in guild ID 502582034670026753.
+[01/01/2019 20:48] INFO state parse_guild_members_chunk 774: Processed a chunk for 205 members in guild ID 513812284423012372.
+[01/01/2019 20:48] INFO state parse_guild_members_chunk 774: Processed a chunk for 446 members in guild ID 527935529929408522.
+[01/01/2019 20:48] INFO state parse_guild_members_chunk 774: Processed a chunk for 3 members in guild ID 529229024908804126.
+[01/01/2019 20:48] INFO state _delay_ready 300: Requesting GUILD_SYNC for 7 guilds
+[01/01/2019 20:48] INFO client run 559: Received signal to terminate bot and event loop.
+[01/01/2019 20:48] INFO client _do_cleanup 479: Cleaning up event loop.
+[01/01/2019 20:48] INFO gateway poll_event 450: Websocket closed with 1000 (), cannot reconnect.
+[01/01/2019 20:48] INFO client when_future_is_done 497: Cleaning up after 6 tasks
+[05/11/2019 19:21] INFO client login 345: logging in using static token
+[05/11/2019 19:21] INFO client _do_cleanup 479: Cleaning up event loop.
+[05/11/2019 19:21] INFO client when_future_is_done 497: Cleaning up after 6 tasks
+[05/11/2019 19:21] INFO client login 345: logging in using static token
+[05/11/2019 19:21] INFO client _do_cleanup 479: Cleaning up event loop.
+[05/11/2019 19:21] INFO client when_future_is_done 497: Cleaning up after 6 tasks
+[05/11/2019 19:21] INFO client login 345: logging in using static token
+[05/11/2019 19:21] INFO client _do_cleanup 479: Cleaning up event loop.
+[05/11/2019 19:21] INFO client when_future_is_done 497: Cleaning up after 6 tasks
+[05/11/2019 19:21] INFO client login 345: logging in using static token
+[05/11/2019 19:21] INFO client _do_cleanup 479: Cleaning up event loop.
+[05/11/2019 19:21] INFO client when_future_is_done 497: Cleaning up after 6 tasks
+[05/11/2019 19:21] INFO client login 345: logging in using static token
+[05/11/2019 19:21] INFO client _do_cleanup 479: Cleaning up event loop.
+[05/11/2019 19:21] INFO client when_future_is_done 497: Cleaning up after 6 tasks
+[05/11/2019 21:25] INFO client login 345: logging in using static token
+[05/11/2019 21:25] INFO client _do_cleanup 479: Cleaning up event loop.
+[05/11/2019 21:25] INFO client when_future_is_done 497: Cleaning up after 6 tasks
+[05/11/2019 21:26] INFO client login 345: logging in using static token
+[05/11/2019 21:26] INFO client _do_cleanup 479: Cleaning up event loop.
+[05/11/2019 21:26] INFO client when_future_is_done 497: Cleaning up after 6 tasks
+[05/11/2019 21:26] INFO client login 345: logging in using static token
+[05/11/2019 21:26] INFO gateway from_client 214: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[05/11/2019 21:26] INFO gateway identify 293: Shard ID None has sent the IDENTIFY payload.
+[05/11/2019 21:26] INFO gateway received_message 384: Shard ID None has connected to Gateway: ["gateway-prd-main-t325",{"micros":40253,"calls":["discord-sessions-prd-1-29",{"micros":35614,"calls":["start_session",{"micros":23451,"calls":["api-prd-main-tdsw",{"micros":19283,"calls":["get_user",{"micros":2312},"add_authorized_ip",{"micros":2213},"get_guilds",{"micros":1586},"private_channels",{"micros":3207},"read_states",{"micros":617},"coros_wait",{"micros":77},"aliases",{"micros":1569},"autosubscribed_users",{"micros":574},"experiments",{"micros":2885}]}]},"guilds_connect",{"micros":3609,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 54629eb44b476a35856ac528c6455896).
+[05/11/2019 21:26] INFO state parse_guild_members_chunk 774: Processed a chunk for 132 members in guild ID 612404147689357334.
+[05/11/2019 21:26] INFO state parse_guild_members_chunk 774: Processed a chunk for 4 members in guild ID 640192732521824268.
+[05/11/2019 21:26] INFO state _delay_ready 300: Requesting GUILD_SYNC for 2 guilds
+[05/11/2019 21:27] INFO client run 559: Received signal to terminate bot and event loop.
+[05/11/2019 21:27] INFO client _do_cleanup 479: Cleaning up event loop.
+[05/11/2019 21:27] INFO gateway poll_event 450: Websocket closed with 1000 (), cannot reconnect.
+[05/11/2019 21:27] INFO client when_future_is_done 497: Cleaning up after 7 tasks
+[05/11/2019 21:29] INFO client login 345: logging in using static token
+[05/11/2019 21:29] INFO gateway from_client 214: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[05/11/2019 21:29] INFO gateway identify 293: Shard ID None has sent the IDENTIFY payload.
+[05/11/2019 21:30] INFO gateway received_message 384: Shard ID None has connected to Gateway: ["gateway-prd-main-1l3c",{"micros":828870,"calls":["discord-sessions-prd-1-8",{"micros":827712,"calls":["start_session",{"micros":18918,"calls":["api-prd-main-6svc",{"micros":15345,"calls":["get_user",{"micros":1709},"add_authorized_ip",{"micros":1643},"get_guilds",{"micros":1327},"private_channels",{"micros":2546},"read_states",{"micros":683},"coros_wait",{"micros":77},"aliases",{"micros":1593},"autosubscribed_users",{"micros":442},"experiments",{"micros":2021}]}]},"guilds_connect",{"micros":1085,"calls":[]},"presence_connect",{"micros":172267,"calls":[]}]}]}] (Session ID: 53283447e35a36a040335e934eac50a9).
+[05/11/2019 21:30] WARNING gateway received_message 396: Unknown event SESSIONS_REPLACE.
+[05/11/2019 21:30] INFO state parse_guild_members_chunk 774: Processed a chunk for 132 members in guild ID 612404147689357334.
+[05/11/2019 21:30] INFO state parse_guild_members_chunk 774: Processed a chunk for 4 members in guild ID 640192732521824268.
+[05/11/2019 21:30] INFO state _delay_ready 300: Requesting GUILD_SYNC for 2 guilds
+[05/11/2019 21:30] INFO client run 559: Received signal to terminate bot and event loop.
+[05/11/2019 21:30] INFO client _do_cleanup 479: Cleaning up event loop.
+[05/11/2019 21:30] INFO gateway poll_event 450: Websocket closed with 1000 (), cannot reconnect.
+[05/11/2019 21:30] INFO client when_future_is_done 497: Cleaning up after 7 tasks
+[05/11/2019 21:31] INFO client login 345: logging in using static token
+[05/11/2019 21:31] INFO gateway from_client 214: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[05/11/2019 21:31] INFO gateway identify 293: Shard ID None has sent the IDENTIFY payload.
+[05/11/2019 21:31] INFO gateway received_message 384: Shard ID None has connected to Gateway: ["gateway-prd-main-hzgl",{"micros":67564,"calls":["discord-sessions-prd-1-28",{"micros":64971,"calls":["start_session",{"micros":63507,"calls":["api-prd-main-xcbn",{"micros":60486,"calls":["get_user",{"micros":9831},"add_authorized_ip",{"micros":3999},"get_guilds",{"micros":2980},"private_channels",{"micros":1999},"read_states",{"micros":6019},"coros_wait",{"micros":98},"aliases",{"micros":6036},"autosubscribed_users",{"micros":24450},"experiments",{"micros":1181}]}]},"guilds_connect",{"micros":399,"calls":[]},"presence_connect",{"micros":0,"calls":[]}]}]}] (Session ID: b045c3d07452610ec123c551cbd7c7f3).
+[05/11/2019 21:31] INFO state parse_guild_members_chunk 774: Processed a chunk for 4 members in guild ID 640192732521824268.
+[05/11/2019 21:31] INFO state _delay_ready 300: Requesting GUILD_SYNC for 1 guilds
+[05/11/2019 21:35] INFO client run 559: Received signal to terminate bot and event loop.
+[05/11/2019 21:35] INFO client _do_cleanup 479: Cleaning up event loop.
+[05/11/2019 21:35] INFO gateway poll_event 450: Websocket closed with 1000 (), cannot reconnect.
+[05/11/2019 21:35] INFO client when_future_is_done 497: Cleaning up after 8 tasks
